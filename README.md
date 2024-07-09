@@ -1,1 +1,1 @@
-[Live Website](jstnwht.github.com.io/odin-recipes)
+[Live Website](https://jstnwht.github.com.io/odin-recipes)
