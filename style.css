@@ -1,0 +1,28 @@
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px; height: auto;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.header {
+    background-color: rgb(72, 87, 87);
+    width:100%;
+    margin:0px;
+}
+
+.body {
+    background-color: rgb(0, 235, 235);
+    width:100%;
+    margin:0px;
+}
+
+* {
+    padding:20px;
+    margin:0px;
+}
