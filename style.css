@@ -31,14 +31,19 @@
 }
 
 .link {
-    display: inline-block;
-    background-color: black; color:white;
+    display: block;
+    background-color: white; color:rgb(230, 106, 23);
     margin: 0 auto;
     padding: 10px;
 }
 
 .content {
     text-align: center;
+    width: 300px;
+    height: 150px;
+    background-color: white;
+    color: black;
+    margin: auto;
 }
 
 .instructions {
@@ -52,4 +57,11 @@
 
 .explanation {
     text-align: center;
+}
+
+.page {
+    background-image: url("https://images.pexels.com/photos/616401/pexels-photo-616401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    width: 1132px;
+    height: 750px;
+    margin: auto;
 }
